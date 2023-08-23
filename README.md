@@ -1,2 +1,2 @@
-# edutech-pr
-Meus projetos EduTech - 25401931
+# alura python
+Meus projetos do curso alura python
